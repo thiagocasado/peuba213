@@ -1,0 +1,70 @@
+    1  pwd
+    2  mkdir repogit 
+    3  cd repogit
+    4  git clone https://github.com/thiagocasado/peuba213.git
+    5  cd prueba123
+    6  cd pueba213
+    7  cd peuba213
+    8  ls
+    9  clear
+   10  echo "archivoprueba" > datos.txt 
+   11  ls
+   12  cat
+   13  whoami
+   14  echo "usuario=$(whoami)">> datox.txt
+   15  cat datos.txt
+   16  echo "usuario=$(whoami)">> datox.txt
+   17  echo "usuario=$(whoami) " >> datox.txt
+   18  ls
+   19  echo "usuario=$(whoami) " >> datos.txt
+   20  ls
+   21  clear
+   22  grep "usuario" datos.txt
+   23  git add .
+   24  git commit -m "ADD: Archivo agregado" 
+   25   git config --global user.email "you@example.com"
+   26   git config --global user.email "thiagosalinascasadocerrudo@gmail.com"
+   27   git config --global user.name "thiagocasado"
+   28  git status 
+   29  git push 
+   30  git status 
+   31  git push
+   32  git push 
+   33  git push 
+   34  gir pull 
+   35  git pull 
+   36  echo "hola" > hola.txt
+   37  ls
+   38  git add .
+   39  git commit -m "ADD: Archivo agregado" 
+   40  git push
+   41  cat hola.txt
+   42  git pull
+   43  cat hola.txt
+   44  pwd
+   45  cd ..
+   46  cd peuba213
+   47  pwd
+   48  git clone https://github.com/thiagocasado/peuba213.git
+   49  cd repo-peuba213
+   50  ls
+   51  ls
+   52  git push
+   53  ls -l
+   54  clear
+   55  ls
+   56  cd hola.txt
+   57  ls
+   58  cat hola.txt
+   59  cd hola.txt
+   60  ls
+   61  echo "eeeeel" >> hola.txt
+   62  cat hola.txt
+   63  clear
+   64  history
+   65   git config --global user.email "thiagosalinascasadocerrudo@gmail.com"
+   66  history --help
+   67  q
+   68  -c
+   69  clear
+   70  history > historico.txt
